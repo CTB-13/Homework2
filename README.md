@@ -1,1 +1,0 @@
-Responsive website complete with assets from Bootstrap
